@@ -1,4 +1,4 @@
-package sf.MongoDB.repositiry;
+package sf.MongoDB.repository;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 import sf.MongoDB.Entety.User;
